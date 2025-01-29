@@ -7,7 +7,8 @@ This repository will serve as a template for the in-class exercise of january 22
 
 # Team Members
 Write below the names of the team members.
-- A
-- B
-- C
+RIVERA SANABRIA, LAURA SARIF
+GARCIA BERNAL, ZAIRA ALEJANDRA
+JACOME VELASCO, NICOLAS
+VIAFARA MORALES, JORGE ELIECER
 
