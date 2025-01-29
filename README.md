@@ -1,6 +1,6 @@
 # Instructions
 
-This repository will serve as a template for the in-class exercise of january 22nd. The purpose of the class is getting to know GitHub as well as practicing what outliers, influential observations, and studentized residuals are. The whole code is on the class' notebook. The only code the team needs to fill are the following:
+This repository will serve as a template for the in-class exercise of january 29th. The purpose of the class is getting to know GitHub as well as practicing what outliers, influential observations, and studentized residuals are. The whole code is on the class' notebook. The only code the team needs to fill are the following:
 - `model2.R`
 - `model3.R`
 - `conclusions.md`
